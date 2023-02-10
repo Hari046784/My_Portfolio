@@ -30,7 +30,7 @@ function Home () {
                     </div>
                     <div className="button">
                         <a
-                            href="!#"
+                            href="Resume/HARIDASS's Resume.pdf"
                             download="resume"
                             className="resume btn btn-primary text-center"
                         >Get Resume<DownloadIcon/></a>

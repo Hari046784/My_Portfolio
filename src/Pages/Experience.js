@@ -48,7 +48,7 @@ function Experience () {
                     icon={<School />}
                 >
                     <h4 className='vertical-timeline-element-title'>GUVI Zen Class</h4>
-                    <p style={{ color: "black" }}>Conducted by an<span style={{ color: "#3e497a" }}> IIT Madras</span></p>
+                    <p style={{ color: "black" }}>MERN - <span style={{ color: "#3e497a" }}> Full Stack Developer</span></p>
                 </VerticalTimelineElement>
             </VerticalTimeline>
         </div>
