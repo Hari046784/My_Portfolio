@@ -10,7 +10,7 @@ function Home () {
                 <div className="aboutLeft col-md-4">
                     <img
                         className="img-fluid"
-                        src="/Images/profile picture.jpg"
+                        src="/Images/Haridass profile picture.jpg"
                         alt="Profile_Picture"
                     />
                 </div>
@@ -30,7 +30,7 @@ function Home () {
                     </div>
                     <div className="button">
                         <a
-                            href="Resume/HARIDASS's Resume.pdf"
+                            href="Resume/Haridass Resume.pdf"
                             download="resume"
                             className="resume btn btn-primary text-center"
                         >Get Resume<DownloadIcon/></a>
