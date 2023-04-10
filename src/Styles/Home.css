@@ -53,19 +53,24 @@
 .profile-info>p{
     color: #14b4ac;
     font-size: 20px;
+    font-family: "Times New Roman", Times, sans-serif;
 }
 .profile-info>h1{
     font-size: 60px;
+    font-family: "Times New Roman", Times, sans-serif;
     color: #ffffff;
     letter-spacing: 8px;
     padding-left: 0px;
     padding-bottom: 10px;
     margin: 0%;
 }
-.profile-info>h2{
-    font-size: 50px;
+.profile-info>h5{
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    /* font-style: italic; */
     color: #dfdfdf;
     margin: 0%;
+    width: 750px;
 }
 
 .role{
@@ -74,4 +79,5 @@
     align-items: center;
     font-size: 30px;
     color: #20908a;
+    font-family: "Times New Roman", Times, sans-serif;
 }

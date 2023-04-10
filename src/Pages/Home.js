@@ -18,20 +18,23 @@ function Home () {
                 <div className="profile-info aboutRight col-md-8" id="home">
                     <p>Hai, My name is</p>
                     <h1><strong>HARIDASS.</strong></h1>
-                    <h2>I build things for the web</h2>
                     <div className="role">
                         <Typewriter
                             options={{
-                                strings: ['MERN Stack Developer', 'Full-Stack Developer', 'JavaScript Developer'],
+                                strings: ['MERN Stack Developer', 'Full-Stack Developer', 'NodeJS Developer'],
                                 autoStart: true,
                                 loop: true
                             }}
                         />
                     </div>
+                    <h5>I have completed my MERN stack development course, and have hands-on experience with web applications for creating a full-stack projects. I want to explore my knowledge in the web development field. I am currently looking for a job that will provide me with training in technologies such as React JS, Node JS, Express JS and MongoDB.</h5>
+                    <br/>
                     <div className="button">
                         <a
-                            href="Resume/Haridass Resume.pdf"
+                            href="https://drive.google.com/file/d/1xt9ZNHvM8_YO6EYkVFtpRHlPoY8O6rK9/view?usp=sharing"
                             download="resume"
+                            target="_blank"
+                            rel="noreferrer" 
                             className="resume btn btn-primary text-center"
                         >Get Resume<DownloadIcon/></a>
                     </div>

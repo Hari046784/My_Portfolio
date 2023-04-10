@@ -13,10 +13,10 @@ function Navbar () {
                     </button>
                     <div className="collapse navbar-collapse " id="navbarNavAltMarkup">
                         <div className="navbar-nav text-center">
-                            <Link className="nav-link" to="/">Home</Link>
+                            <Link className="nav-link" to="/">About</Link>
                             <Link className="nav-link" to="/skills">Skills</Link>
-                            <Link className="nav-link" to="/experience">Experience</Link>
                             <Link className="nav-link" to="/projects">Projects</Link>
+                            <Link className="nav-link" to="/experience">Experience</Link>
                             <Link className="nav-link" to="/contacts">Contacts</Link>
                         </div>
                     </div>

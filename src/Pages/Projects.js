@@ -9,6 +9,24 @@ function Projects () {
             </div>
 
             <div className="projects-cards">
+
+
+              <div className="card">
+                <h3 className="card-head">Messenger App</h3>
+                <img
+                  className="img-project"
+                  src="/Projects/Messenger.PNG"
+                  alt="Messenger app output snap"
+                />
+                <p className="card-body"><span> Summary:</span>This messenger app enables private messaging between two or more people, which is the most popular way for consumers to send the text-based messages.</p>
+               <span className="tech">React-js Node-js Express-js MongoDB</span>
+               <div className="card-footer">
+                  <a href="https://github.com/HaridassMurugan/Messenger-App-Frontend" target="_blank" rel="noreferrer">Front-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://github.com/HaridassMurugan/Messenger-App-Backend" target="_blank"rel="noreferrer">back-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://messengerapp1.netlify.app" target="_blank"rel="noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div> 
+              </div>
+
               <div className="card">
                 <h3 className="card-head">AWS Polymer Search clone</h3>
                 <img
@@ -23,6 +41,86 @@ function Projects () {
                   <a href="https://github.com/HaridassMurugan/AWS-Polymer-Search-Clone-FrontEnd" target="_blank" rel="noreferrer">Front-End <i class="fa-brands fa-github"></i></a>
                   <a href="https://github.com/HaridassMurugan/AWS-Polymer-Search-Clone-BackEnd" target="_blank"rel="noreferrer">back-End <i class="fa-brands fa-github"></i></a>
                   <a href="https://awspolymersearchclone.netlify.app/search" target="_blank"rel="noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div> 
+              </div>
+
+              <div className="card">
+                <h3 className="card-head">Blogs App</h3>
+                <img
+                  className="img-project"
+                  src="/Projects/Blog.PNG"
+                  alt="Blog output snap"
+                />
+                <p className="card-body"><span> Summary:</span>This blog application allows you to post, edit, save, and view your blog posts as well as all uploaded posts.</p>
+               <span className="tech">React-js Node-js Express-js MongoDB</span>
+               <div className="card-footer">
+                  <a href="https://github.com/HaridassMurugan/Blog-Application-Frontend" target="_blank" rel="noreferrer">Front-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://github.com/HaridassMurugan/Blog-Application-Backend" target="_blank"rel="noreferrer">back-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://blogsapplication.netlify.app/" target="_blank"rel="noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div> 
+              </div>
+
+              <div className="card">
+                <h3 className="card-head">YouTube Clone App</h3>
+                <img
+                  className="img-project"
+                  src="/Projects/YouTube.PNG"
+                  alt="Youtube clone output snap"
+                />
+                <p className="card-body"><span> Summary:</span>This application shares videos similar to YouTube and is built using MONGODB, Node.js, firebase and React.js complete with authentication and authorization features.</p>
+               <span className="tech">React-js Node-js Express-js MongoDB</span>
+               <div className="card-footer">
+                  <a href="https://github.com/HaridassMurugan/YouTube_Clone_Frontend" target="_blank" rel="noreferrer">Front-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://github.com/HaridassMurugan/urlshortener-backend" target="_blank"rel="noreferrer">back-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://youtubecloneapplication1.netlify.app" target="_blank"rel="noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div> 
+              </div>
+
+              <div className="card">
+                <h3 className="card-head">URL Shortener App</h3>
+                <img
+                  className="img-project"
+                  src="/Projects/url shortener.PNG"
+                  alt="URL Shortener output snap"
+                />
+                <p className="card-body"><span> Summary:</span>This URL Shortening application offers its users the ability to shorten URL links, incorporating features such as user authentication and authorization.</p>
+               <span className="tech">React-js Node-js Express-js MongoDB</span>
+               <div className="card-footer">
+                  <a href="https://github.com/HaridassMurugan/urlshortener-frontend" target="_blank" rel="noreferrer">Front-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://github.com/HaridassMurugan/urlshortener-backend" target="_blank"rel="noreferrer">back-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://urlshortenerapp1.netlify.app" target="_blank"rel="noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div> 
+              </div>
+
+              <div className="card">
+                <h3 className="card-head">Room Booking App</h3>
+                <img
+                  className="img-project"
+                  src="/Projects/Rooms.PNG"
+                  alt="Roombooking app output snap"
+                />
+                <p className="card-body"><span> Summary:</span>This project allows Owners to generate homes and rooms, while giving Guests to book them, also authorization and authentication features have been integrated into the same.</p>
+               <span className="tech">React-js Node-js Express-js MongoDB</span>
+               <div className="card-footer">
+                  <a href="https://github.com/HaridassMurugan/Room-Booking-Frontend" target="_blank" rel="noreferrer">Front-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://github.com/HaridassMurugan/Room-Booking-Backend" target="_blank"rel="noreferrer">back-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://roomsbookingapp.netlify.app/" target="_blank"rel="noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div> 
+              </div>
+
+              <div className="card">
+                <h3 className="card-head">Order Management App</h3>
+                <img
+                  className="img-project"
+                  src="/Projects/Order management.PNG"
+                  alt="order management output snap"
+                />
+                <p className="card-body"><span> Summary:</span>This Application is used to focus the business growth and save time. we have maintain the products, customers and booking orders. We evaluate the monthly product and revenue details.</p>
+               <span className="tech">React-js Node-js Express-js MongoDB</span>
+               <div className="card-footer">
+                  <a href="https://github.com/HaridassMurugan/Order-Management-Frontend" target="_blank" rel="noreferrer">Front-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://github.com/HaridassMurugan/Order-Management-Backend" target="_blank"rel="noreferrer">back-End <i class="fa-brands fa-github"></i></a>
+                  <a href="https://ordermangement.netlify.app" target="_blank"rel="noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div> 
               </div>
 
