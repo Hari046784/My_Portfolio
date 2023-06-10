@@ -31,7 +31,7 @@ function Home () {
                     <br/>
                     <div className="button">
                         <a
-                            href="https://drive.google.com/file/d/1xt9ZNHvM8_YO6EYkVFtpRHlPoY8O6rK9/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1-7rQqZtcs07Oi0XV7e24C0l8fl8n4eU6/view?usp=sharing"
                             download="resume"
                             target="_blank"
                             rel="noreferrer" 
